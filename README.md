@@ -12,7 +12,9 @@ Daniel Li					*Email*: dal224@pitt.edu
 
 ### Description and Databases
 
-*Nhu's database* 
+**Housing Database link**: https://data.wprdc.org/dataset/pgh/resource/94f8eda2-fa77-49a2-9190-3a6ed85fc561
+
+*This database contains residency of neighborhoods in Pittsburgh. It contains the population, total number of units, the percentage of occupied units, vacant units, owner occupied units, renter occupied units, living in household, living in group quarters, and the units built between 1939 to 2009, the number of occupied units, average years of residence, the median home value and sale price, and number of sales counted. Some of these data were taken from the years 2000 and 2010.*
 
 
 
