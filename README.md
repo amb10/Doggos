@@ -24,7 +24,9 @@ Daniel Li					*Email*: dal224@pitt.edu
 
 
 
-*Daniel's database*
+**Supermarkets and Convenience Stores Database link**: https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
+
+*This databatse contains all of the registered supermarkets & convenience stores in Allegheny County. It has the id of the store, store name, the name of the corporation that registered the store, when it opened, street number, street name, state, zip, latitude, longitude, accuracy of the coordinates and whether or not it is a supermarket or convenience store.*
 
 
 
